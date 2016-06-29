@@ -1,0 +1,10 @@
+jquery.socialshareprivacy:
+  version: 1.x
+  css:
+    theme:
+      css/socialshareprivacy.css: {}
+  js:
+    js/jquery.socialshareprivacy.min.autoload.js: {}
+    js/socialshareprivacy.js: {}
+  dependencies:
+    - core/jquery
